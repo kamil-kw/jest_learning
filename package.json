@@ -1,0 +1,22 @@
+{
+  "name": "jest_learning",
+  "version": "1.0.0",
+  "description": "Learning JEST test ing enviromental",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamil-kw/jest_learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamil-kw/jest_learning/issues"
+  },
+  "homepage": "https://github.com/kamil-kw/jest_learning#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
