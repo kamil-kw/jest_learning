@@ -1,6 +1,4 @@
-/**
- * @jest-environment jsdom
- */
+
 const addition = require("../calc");
 
 describe("Calculator", () => {
